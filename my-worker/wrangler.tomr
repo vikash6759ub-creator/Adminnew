@@ -5,4 +5,4 @@ compatibility_date = "2025-02-14"
 [[d1_databases]]
 binding = "DB"
 database_name = "your-database-name"
-database_id = "your-database-id"   # अपना D1 database ID डालें
+database_id = "0bbac493-2a73-4817-9e44-fcb1c4c465ac"   # अपना D1 database ID डालें
