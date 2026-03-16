@@ -1,0 +1,8 @@
+name = "admin-panel"
+main = "src/index.js"
+compatibility_date = "2025-02-14"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "your-database-name"
+database_id = "your-database-id"   # अपना D1 database ID डालें
